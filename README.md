@@ -1,8 +1,9 @@
 # # Project 3 - *Name of App Here*
+#SimpleTweet
 ##Jada Surrency
 
 
-Time spent: **6** hours spent in total
+Time spent: **8** hours spent in total
 
 ## User Stories
 
